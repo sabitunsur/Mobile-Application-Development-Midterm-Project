@@ -41,48 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAdCT3-RaSS8Hp1iZxa63HFh78AYEGetoM',
-    appId: '1:714985489410:web:e3d8effff69ab51f89531b',
-    messagingSenderId: '714985489410',
-    projectId: 'city-choosing',
-    authDomain: 'city-choosing.firebaseapp.com',
-    storageBucket: 'city-choosing.firebasestorage.app',
-    measurementId: 'G-Q04L5FKZN4',
-  );
+  apiKey: ':D',
+  appId: ':D',
+  messagingSenderId: ':D',
+  projectId: ':D',
+  authDomain: ':D',
+  storageBucket: ':D',
+  measurementId: ':D',
+);
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBpWp9mvR0abAnx2tEGIVnoJmcgT918bfg',
-    appId: '1:714985489410:android:aa12da8e0788b5a589531b',
-    messagingSenderId: '714985489410',
-    projectId: 'city-choosing',
-    storageBucket: 'city-choosing.firebasestorage.app',
-  );
+static const FirebaseOptions android = FirebaseOptions(
+  apiKey: ':D',
+  appId: ':D',
+  messagingSenderId: ':D',
+  projectId: ':D',
+  storageBucket: ':D',
+);
 
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCSeg20avRR2QN5OdU2dPyxTbUHU3EIBOU',
-    appId: '1:714985489410:ios:c9a0f5bb426cb64089531b',
-    messagingSenderId: '714985489410',
-    projectId: 'city-choosing',
-    storageBucket: 'city-choosing.firebasestorage.app',
-    iosBundleId: 'com.example.cityChoosing',
-  );
+static const FirebaseOptions ios = FirebaseOptions(
+  apiKey: ':D',
+  appId: ':D',
+  messagingSenderId: ':D',
+  projectId: ':D',
+  storageBucket: ':D',
+  iosBundleId: ':D',
+);
 
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCSeg20avRR2QN5OdU2dPyxTbUHU3EIBOU',
-    appId: '1:714985489410:ios:c9a0f5bb426cb64089531b',
-    messagingSenderId: '714985489410',
-    projectId: 'city-choosing',
-    storageBucket: 'city-choosing.firebasestorage.app',
-    iosBundleId: 'com.example.cityChoosing',
-  );
+static const FirebaseOptions macos = FirebaseOptions(
+  apiKey: ':D',
+  appId: ':D',
+  messagingSenderId: ':D',
+  projectId: ':D',
+  storageBucket: ':D',
+  iosBundleId: ':D',
+);
 
-  static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAdCT3-RaSS8Hp1iZxa63HFh78AYEGetoM',
-    appId: '1:714985489410:web:ce6c37ad7bfb0eed89531b',
-    messagingSenderId: '714985489410',
-    projectId: 'city-choosing',
-    authDomain: 'city-choosing.firebaseapp.com',
-    storageBucket: 'city-choosing.firebasestorage.app',
-    measurementId: 'G-02PLLSFTE8',
-  );
+static const FirebaseOptions windows = FirebaseOptions(
+  apiKey: ':D',
+  appId: ':D',
+  messagingSenderId: ':D',
+  projectId: ':D',
+  authDomain: ':D',
+  storageBucket: ':D',
+  measurementId: ':D',
+);
+
 }
